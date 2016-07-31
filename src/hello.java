@@ -1,7 +1,11 @@
-public class hello {
+﻿public class hello {
   public static void main(String args[]) {
+
+    System.out.println("Hello");
     System.out.println("Hello World!!");
 
-    System.out.println("こんばんは");
+    System.out.println("sawara");
+    System.out.println("Yansama");
+
   }
 }
